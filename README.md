@@ -34,7 +34,7 @@ By Packed Status
 *Deleting items from the list*
 ![Delete](screenshots/delete.png)
 
-*Clearing the entire list)
+*Clearing the entire list*
 ![Clear](screenshots/clear.png)
 
 ## 🚀 My Learning Journey

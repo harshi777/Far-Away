@@ -15,14 +15,27 @@ Welcome to **Far Away**! 🎒 This delightful packing list app is here to make y
 
 Here are some screenshots of the app in action:
 
-![Add Item](screenshots/add-item.png)  
+*Initial look*
+![Initial Look](screenshots/initial.png)
+
 *Adding a new item to the packing list.*
+![Add Item](screenshots/afteradding.png)  
 
-![Packed Items](screenshots/packed-items.png)  
 *Marking items as packed.*
+![Packed Items](screenshots/packed.png)  
 
-![Packing Stats](screenshots/packing-stats.png)  
-*Viewing your packing stats and completion percentage.*
+*After sorting items*
+By Description
+![Sort By Description](screenshots/sortbyd.png)
+
+By Packed Status
+![Sort By Packed Status](screenshots/sortbyp.png)
+
+*Deleting items from the list*
+![Delete](screenshots/delete.png)
+
+*Clearing the entire list)
+![Clear](screenshots/clear.png)
 
 ## 🚀 My Learning Journey
 
